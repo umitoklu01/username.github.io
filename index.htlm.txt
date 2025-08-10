@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <title>Ümit OKLU</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: auto;
+      padding: 20px;
+      background-color: #f0f0f0;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .kitap-kapak {
+      max-width: 300px;
+      margin: 20px 0;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Merhaba, ben Ümit OKLU</h1>
+  <p>“Bir Ümit” kitabım ve yazarlık yolculuğum hakkında bilgi almak için siteme hoş geldiniz.</p>
+  <img src="https://cdn.kitapyurdu.com/resimler/kapak/buyuk/726809.jpg" alt="Bir Ümit Kitap Kapağı" class="kitap-kapak" />
+  <p><a href="https://www.kitapyurdu.com/kitap/bir-umit-/726809.html" target="_blank">Kitabımı satın almak için tıklayın</a></p>
+</body>
+</html>
